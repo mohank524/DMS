@@ -1,0 +1,6 @@
+{
+    "testRegex": "((\\.|/*.)(spec))\\.js?$",
+    "setupFilesAfterEnv": [
+        "<rootDir>/dms_react/static/js"
+      ]
+}
