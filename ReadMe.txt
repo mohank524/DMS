@@ -1,6 +1,6 @@
 Simple ToDo App with django and react
 
-## Please this App from gitlab and switch to dev repository:
+## Please clone this App from gitlab and switch to dev repository:
 git clone https://github.com/mohank524/DMS.git
 cd DMS/
 git checkout dev
