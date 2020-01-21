@@ -1,8 +1,8 @@
 Simple ToDo App with django and react
 
 ## Please this App from gitlab and switch to dev repository:
-cd DMS/
 git clone https://github.com/mohank524/DMS.git
+cd DMS/
 git checkout dev
 
 ## Folder Structure
@@ -75,5 +75,5 @@ python3 manage.py runserver
 
 
 Runs the app in the development mode.<br>
-Open [ http://127.0.0.1:8000/api]( http://127.0.0.1:8000/api) to view it in the browser.
+Please click ( http://127.0.0.1:8000/api) to view it in the browser.
 
